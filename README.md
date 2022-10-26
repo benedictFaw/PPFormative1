@@ -1,5 +1,5 @@
-- Student Name: [insert your name here]
-- Student CIS ID: [insert your CIS ID here]
+- Student Name: Benedict Fawcett   
+- Student CIS ID: vwhk22
 
 For this coursework we want to create a very simple C program that takes a number as an input and returns the perimeter of a sequence of squares.
 
