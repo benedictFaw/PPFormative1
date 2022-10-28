@@ -11,4 +11,4 @@ test:
 	./test
 
 clean:
-	rm *.o perimeter test
+	rm *.o perimeter
