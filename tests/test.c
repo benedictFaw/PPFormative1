@@ -18,6 +18,7 @@ int main() {
     runTests(7, 216);
     runTests(20, 114624);
     runTests(30, 14098308);
+    runTests(40, 1733977744);
     return 0;
 }
 
